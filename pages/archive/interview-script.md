@@ -13,7 +13,7 @@ permalink: /interview-script/
 
 # Example User Interview Script
 
-This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist]({{site.baseurl}}/interview-checklist/) for running an interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
+This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist](https://guides.18f.gov/ux-guide/interview-checklist/) for running an interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
 
 ## Introduction
 
