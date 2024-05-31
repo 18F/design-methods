@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 # Methods
 
 The 18F Methods were created to describe how 18F puts human-centered design into practice. While this was developed primarily as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design. 
